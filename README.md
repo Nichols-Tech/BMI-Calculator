@@ -1,4 +1,4 @@
-# Title: BMI-Calculator
+# BMI-Calculator
 
 
 Description:
